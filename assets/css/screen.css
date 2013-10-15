@@ -253,6 +253,10 @@ blockquote cite a { font-weight: normal; }
 	padding: 50px 85px;
 }
 
+.post {
+	word-break: break-word;
+}
+
 .home-template .post {
 	padding: 35px 0;
 	border-top: 1px solid #ddd;
