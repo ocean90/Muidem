@@ -2,6 +2,13 @@
 
 A theme for [Ghost](http://github.com/tryghost/ghost/) inspired (loosely) by Medium.com.
 
+
+![Muidem Screenshot - Home Template](screenshot1.png?raw=true "Home Template")
+
+![Muidem Screenshot - Post Template](screenshot2.png?raw=true "Post Template")
+
+
+
 ## Copyright & License
 
 Copyright (c) 2013 Dominik Schilling - Released under the MIT License.
