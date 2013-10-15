@@ -186,7 +186,14 @@ blockquote cite {
 	font-weight:bold;
 }
 
-blockquote cite a { font-weight: normal; }
+blockquote cite a {
+	font-weight: normal;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
 
 /* ==========================================================================
    3. Home - The main styles for the the theme
@@ -294,11 +301,6 @@ blockquote cite a { font-weight: normal; }
 	color: #4d4d4d;
 }
 
-.post-content a {
-	border-bottom: 1px solid #ccc;
-	text-decoration: none;
-}
-
 /* ==========================================================================
    4. Pagination - Tools to let you flick between pages
    ========================================================================== */
@@ -366,6 +368,15 @@ blockquote cite a { font-weight: normal; }
 .post-content p:first-child {
 	font-size: 25px;
 	font-style: italic;
+}
+
+.post-content a {
+	border-bottom: 1px solid #ccc;
+	text-decoration: none;
+}
+
+.post-content img {
+	box-shadow: 0 0 10px rgba( 0, 0, 0, .1 );
 }
 
 .author-image {
